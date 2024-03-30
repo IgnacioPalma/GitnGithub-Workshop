@@ -9,7 +9,7 @@ Estos recursos te pueden ayudar a profundizar tus conocimientos en Git y GitHub.
 - 🆕 [Codedéx Git & GitHub (Exclusivo con el Student Developer Pack)](https://www.codedex.io/git-github)
 
 ### 🚩 GitHub Student Developer Pack
-Puedes obtener todos los beneficios del GitHub Student Developer Pack accediendo acá: [[link]](gh.io/licc-lovers)
+Puedes obtener todos los beneficios del GitHub Student Developer Pack accediendo acá: [[link]](https://gh.io/licc-lovers)
 ![image](https://github.com/IgnacioPalma/GitnGithub-Workshop/assets/81819758/aee05bfe-5699-41e6-8448-007f7b89fe38)
 
 # 💌 ¡Gracias por tu tiempo!
