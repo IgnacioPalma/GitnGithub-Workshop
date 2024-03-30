@@ -6,7 +6,7 @@ Estos recursos te pueden ayudar a profundizar tus conocimientos en Git y GitHub.
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [GitHub on Git Resources](https://docs.github.com/es/get-started/quickstart/git-and-github-learning-resources)
 - [Aprende Git y GitHub - FreeCodeCamp](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
-- 🆕 [Codedéx Git & GitHub (Exclusivo con el Student Developer Pack)](https://www.codedex.io/git-github)
+- 🆕 [Codédex Git & GitHub (Exclusivo con el Student Developer Pack)](https://www.codedex.io/git-github)
 
 ### 🚩 GitHub Student Developer Pack
 Puedes obtener todos los beneficios del GitHub Student Developer Pack accediendo acá: [[link]](https://gh.io/licc-lovers)
